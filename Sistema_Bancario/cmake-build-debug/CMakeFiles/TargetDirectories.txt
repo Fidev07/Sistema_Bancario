@@ -1,0 +1,3 @@
+C:/Users/fidel/OneDrive/Área de Trabalho/semestre-faculdade/limguagem C/exercicios_pratica/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir
+C:/Users/fidel/OneDrive/Área de Trabalho/semestre-faculdade/limguagem C/exercicios_pratica/untitled2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fidel/OneDrive/Área de Trabalho/semestre-faculdade/limguagem C/exercicios_pratica/untitled2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
